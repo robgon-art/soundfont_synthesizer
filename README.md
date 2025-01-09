@@ -19,3 +19,13 @@ Place the SoundFont file in the soundfont_synthesizer folder.
    pygame pyfluidsynth
 
 5. Run python soundfont_synthesizer.py, and you should see this and be able to play. Blue indicates the pressed notes.
+
+# Acknowledgments
+This project was made possible by the following resources:
+
+- **FluidSynth**: A real-time software synthesizer based on the SoundFont 2 specifications.
+- **PyGame**: A set of Python modules designed for writing video games, used here for the graphical interface and input handling.
+- **pyFluidSynth**: A Python wrapper for the FluidSynth library, enabling seamless MIDI and SoundFont functionality integration into Python projects.
+- **SoundFont Technology**: A file format and associated technology that uses sample-based synthesis to play MIDI files. 
+- **Dore Mark** for his NY S&S Model B-v5.2 SoundFont: A high-quality SoundFont sampled by Dore Mark, providing the rich tones of a New York Steinway Model B piano.
+- **Adam Dingle** for his FluidSynth installation instructions.
