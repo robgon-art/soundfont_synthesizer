@@ -1,6 +1,8 @@
 # SoundFont Synthesizer
 A simple one-octave synthesizer using FluidSynth and a SoundFont
 
+![A screenshot of the keyboard](keyboard.png)
+
 ## Instructions
 
 1. To run the app, you need to first download and install the FluidSynth library from here:
