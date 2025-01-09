@@ -20,7 +20,7 @@ Place the SoundFont file in the soundfont_synthesizer folder.
 
 5. Run python soundfont_synthesizer.py, and you should see this and be able to play. Blue indicates the pressed notes.
 
-# Acknowledgments
+## Acknowledgments
 This project was made possible by the following resources:
 
 - **FluidSynth**: A real-time software synthesizer based on the SoundFont 2 specifications.
